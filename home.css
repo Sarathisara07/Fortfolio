@@ -1,0 +1,65 @@
+body{
+   background-color: black;
+}
+#a{
+   padding:20px;
+   padding-left:5px;
+   background-color: black;
+}
+.a1{
+    display: flex;
+    background-color: black;
+    height:750px;
+}
+.a2{
+    border-style:d;
+    color:brown;
+    margin-left:80px;
+    margin-top: 150px;
+    background-color: black;
+}
+.a3{
+    background-color: black;
+    margin-top:120px;
+    margin-left:60px;
+    background-image: url(sara.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:400px;
+    width:400px;
+    border-radius: 100%;
+    box-shadow:blue 20px;
+    box-shadow:5px 5px 5px 5px teal;
+}
+.a4{
+    color: darkcyan;
+    background-color: black;
+}
+.a5{
+    color: brown;
+}
+#but{
+   margin-left:40px;
+   padding-bottom:40px;
+}
+#insta{
+    transition:.5s;
+    border-radius: 50%;
+    display:inline-block;
+    font-size:50%;
+    border:2px solid #7cf03d;
+    margin: 0 8px;
+    padding: 8px;
+    color:#7cf03d;
+}
+#insta:hover{
+    background-color:#7cf03d;
+    color:#1f242d;
+    box-shadow:0 0 10px #7cf03d;
+}
+.a3:hover{
+    
+        background-color:#7cf03d;
+        color:#1f242d;
+        box-shadow:0 0 50px teal;
+    }
